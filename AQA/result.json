@@ -1,0 +1,39 @@
+{
+    "The Grosvenor Hotel": {
+        "7 \u0441\u0435\u0440\u043f. \u2192 8 \u0441\u0435\u0440\u043f.": {
+            "Booking.com": "UAH\u00a03,073",
+            "Trip.com": "UAH\u00a03,070",
+            "Agoda.com": "UAH\u00a03,080",
+            "SuperTravel": "-",
+            "screenshot": "com.tripadvisor.android.ui.primarynavcontainer.MainActivity2023_08_06_16:43:01"
+        },
+        "8 \u0441\u0435\u0440\u043f. \u2192 9 \u0441\u0435\u0440\u043f.": {
+            "Booking.com": "UAH\u00a04,178",
+            "Trip.com": "UAH\u00a04,175",
+            "Agoda.com": "UAH\u00a04,188",
+            "SuperTravel": "-",
+            "screenshot": "com.tripadvisor.android.ui.primarynavcontainer.MainActivity2023_08_06_16:43:25"
+        },
+        "9 \u0441\u0435\u0440\u043f. \u2192 10 \u0441\u0435\u0440\u043f.": {
+            "Booking.com": "UAH\u00a04,178",
+            "Trip.com": "UAH\u00a04,175",
+            "Agoda.com": "UAH\u00a04,188",
+            "SuperTravel": "-",
+            "screenshot": "com.tripadvisor.android.ui.primarynavcontainer.MainActivity2023_08_06_16:43:48"
+        },
+        "10 \u0441\u0435\u0440\u043f. \u2192 11 \u0441\u0435\u0440\u043f.": {
+            "Booking.com": "UAH\u00a04,178",
+            "Trip.com": "UAH\u00a04,175",
+            "Agoda.com": "UAH\u00a04,188",
+            "SuperTravel": "-",
+            "screenshot": "com.tripadvisor.android.ui.primarynavcontainer.MainActivity2023_08_06_16:44:12"
+        },
+        "11 \u0441\u0435\u0440\u043f. \u2192 12 \u0441\u0435\u0440\u043f.": {
+            "Booking.com": "UAH\u00a03,515",
+            "Agoda.com": "UAH\u00a03,523",
+            "Trip.com": "-",
+            "SuperTravel": "-",
+            "screenshot": "com.tripadvisor.android.ui.primarynavcontainer.MainActivity2023_08_06_16:44:36"
+        }
+    }
+}
